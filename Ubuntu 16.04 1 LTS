@@ -1,0 +1,7 @@
+Back in  the days of Ubuntu 12, I used ibus to type simplified Chinese characters. I set it up with the advice of Pinyin Joe's website. I'm only learning Chinese, so I prefer instructions in another language, like English or French. 
+Then I upgraded to ubuntu 14.04, and ibus didn't work any more. I consulted Pinyin Joe's wesite and he said that, yes, there were issues between ibus and Ubuntu 14.04, but work was being done on getting an app. called fcitx. So I waited, with workarounds, like pasting Chinese characters from Windows ina virtual machine back into Linus apps.
+The I upgraded to Linux 16.04 1 LTS 64 bits (yesterday) (French version). 
+I installed lots of fcitx stuff. I ran im-config a few times. It made NO DIFFERENCE. So I uninstalled all the fcitx stuff, and installed lots of ibus stuff.
+I ran im-config again, and now I have a keyboard indicator on the upper bar than alternate between "fr", "en" and "zh". This is like I had in Ubuntu 14.
+But it's no realk use, because "zh" just gives me the American keyboard, but with no Chinese characters. 
+Please, someone, what should I do?
